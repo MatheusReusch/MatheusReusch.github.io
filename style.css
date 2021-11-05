@@ -1,0 +1,113 @@
+body {
+    background-image: url(download.png);
+}
+
+.mds {
+    background-color: grey;
+}
+
+.card {
+    margin: auto;
+    top: -150px;
+}
+
+.nav {
+    display: inline;
+    margin-bottom: -50px;
+    position: relative;
+    top: 150px;
+}
+
+#citacao {
+    position: relative;
+    top: -110px;
+}
+
+#header {
+    height: 750px;
+    
+}
+
+.fotos {
+    height: 900px;
+    
+}
+
+.carousel-item {
+    height: 870px;
+}
+
+#accordionExample {
+  width: 102%;
+  margin: -25px -10px 8px
+}
+
+.contato {
+    width: 240px
+}
+
+#color1 {
+    background-color: cornflowerblue;
+}
+
+#tabela {
+    margin-left: 110px;
+}
+
+.penultimo {
+    width: 100%;
+    position: relative;
+    height: 370px;
+    margin-bottom: -30px;
+    
+}
+
+#soft {
+    font-size: xx-large;
+    margin-bottom: 15px;
+}
+
+#tabela2 {
+    margin-left: 750px;
+    position: relative;
+    top: -302px;
+}
+
+.tituloform {
+    margin-bottom: -5px;
+    font-size: 28px;
+    margin: 0px 0px;
+    height: 70px;
+    position: relative;
+}
+
+#floatingTextarea {
+    margin-top: -16px;
+}
+
+#botao {
+    margin-left: 550px;
+    margin-bottom: 30px;
+    top: -40px;
+}
+
+#botaocom {
+    
+    margin-bottom: 5px;
+    height: 70px;
+    margin-bottom: 9px;
+    display: inline;
+    width: 0px;
+    padding: 0px;
+}
+
+#formulario {
+    background-color: white;
+    width: 69%;
+    margin-left: 293px;
+    margin-bottom: 10px;
+}
+
+#contatinhos {
+    margin-left: 790px;
+}
